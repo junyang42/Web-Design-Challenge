@@ -1,0 +1,34 @@
+.subtitle_1 {
+    text-align: left;
+}
+
+.title {
+    color: rgb(0, 255, 157);
+}
+
+.temp_title {
+    color: rgb(0, 255, 157);
+    text-align: center;
+}
+
+.humidity_title {
+    color: rgb(0, 255, 157);
+    text-align: center;
+}
+
+.cloudiness_title {
+    color: rgb(0, 255, 157);
+    text-align: center;
+}
+
+.wind_speed_title {
+    color: rgb(0, 255, 157);
+    text-align: center;
+}
+
+.active {
+    font-size: x-large;
+    color: white;
+    background-color: rgb(16, 121, 33);
+    padding:10%;
+}
